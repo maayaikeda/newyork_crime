@@ -9,12 +9,7 @@ This suggest that disproportionately high arrest and prison sentences of black p
 
 
 ![plot4](/images/plot4arrestvslogpopulation.png)
-![plot5](/images/plot5arrestincity.png)
-![plot5_2](/images/plot5arrestvspopulationcity.png)
 
-![plot5_3](/images/plot5blackarrestvspopulationcity.png)
-![plot6](/images/plot6blackarrestvspopulationwhitedem.png)
-![plot7](/images/plot7arrestvswhitepercent.png)
 ![plot8](/images/plot8arrestvsblackpercent.png)
 
 ![plot9](/images/plot9%25arrestvswhitedem.png)
