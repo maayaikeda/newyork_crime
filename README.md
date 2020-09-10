@@ -20,6 +20,9 @@ This suggest that disproportionately high arrest and prison sentences of black p
 ![plot14](/images/plot14unfairfactor%25white.png)
 ![plot15](/images/plot15unfairfactorbarwhitedem.png)
 
+![plot19](/images/plot19prison:arrest%25white.png)
+
+
 
 
 
