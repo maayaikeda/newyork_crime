@@ -189,19 +189,4 @@ The ugly conclusion is that in New York State it seems that the higher the White
 
 
 
-![plot4](/images/plot4arrestvslogpopulation.png)![plot8](/images/plot8arrestvsblackpercent.png)
-
-
-
-
-
-![plot11](/images/plot11blackdemhist.png)
-![plot12](/images/plot12bararrestvsblackdem.png)
-![plot13](/images/plot13unfairfactorallcounties.png)
-![plot14](/images/plot14unfairfactor%25white.png)
-![plot15](/images/plot15unfairfactorbarwhitedem.png)
-
-![plot19](/images/plot19prison:arrest%25white.png)
-
-
 
