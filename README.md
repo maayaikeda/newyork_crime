@@ -3,7 +3,7 @@ I analyzed the New York State 2018 arrest data to see if racial disparities exis
 
 
 
-![figure1](/images/plo2arrestdemographic.png)
+![figure1](/images/Figure1.png)
 
 
 
@@ -15,7 +15,7 @@ Here we can see a disproportionate amount of arrests among the Black population 
 
 
 
-![figure2](/images/plot3arrestvpopulation.png)
+![figure2](/images/Figure2.png)
 
 
 
@@ -23,7 +23,7 @@ This figure plots Race arrests/Race population by the total population of each c
 
 
 
-![figure3](/images/racelogpop.png)
+![figure3](/images/Figure3.png)
 
 
 
@@ -34,7 +34,7 @@ This figure examines the same data as the previous figure, but observes a logari
 It’s worthwhile to note that the overall crime rates in the mid-sized counties is half or less than half of the high-population counties. As a representation factor, the percentage of each race arrested seems fairly constant for every racial group except Black people, and seems to sharply decrease when the total population of each county is high. 
 
 
-![figure4](/images/populationbarplot.png)
+![figure4](/images/Figure4.png)
 
 
 
@@ -42,7 +42,7 @@ It’s worthwhile to note that the overall crime rates in the mid-sized counties
 Using the same logarithmic population range, four stacked columns illustrate the mean racial demographic for counties in New York State. Comparing Figure 3 to Figure 4, we find that the highest rates of arrests of Black people occur mainly in counties where Black people make up less than 7.6% of the total population and continues to drop as Black people make up larger & larger percentages of the total population.
 
 
-![figure5](/images/plot12bararrestvsblackdem.png)
+![figure5](/images/Figure5.png)
 
 
 
@@ -54,7 +54,7 @@ This figure further illustrates percent of arrests per racial demographic. In co
 Once again, there doesn’t seem to be much difference in the percentage of arrests within other racial groups based upon the percentage of Black people in each county — but what about the percentage of White people?
 
 
-![figure6](/images/plot9%arrestvswhitedem.png)
+![figure6](/images/Figure6.png)
 
 
 
@@ -62,7 +62,7 @@ Once again, there doesn’t seem to be much difference in the percentage of arre
 This figure shows the mean county arrests for each racial group as a percentage of the total arrests in the counties, split into two groups: Counties where White people make up less than 50% of the total population (in which White people are the minority), and counties where White people are greater than 50% of the population (in which White people are the majority).
 
 
-![figure7](/images/plot10bararrestvswhitedem.png)
+![figure7](/images/Figure7.png)
 
 
 
@@ -71,7 +71,7 @@ This figure shows the number of arrests of people in each racial group scaled to
 
 
 
-![figure8](/images/plot13unfairfactorallcounties.png)
+![figure8](/images/Figure8.png)
 
 
 
@@ -84,7 +84,7 @@ In this figure we can see that is not the case.
 
 
 
-![figure9](/images/plot14unfairfactor%white.png)
+![figure9](/images/Figure9.png)
 
 
 
@@ -96,7 +96,7 @@ Hispanic people seem somewhat over-represented, but not by much. Asian people se
 
 
 
-Figure 10: Plot15unfairfactorbarwhitedem
+![figure10](/images/Figure10.png)
 
 
 
@@ -104,7 +104,7 @@ This figure condenses the Representation Factors for each racial group based upo
 
 
 
-Figure 11: plt16unfairfactorbarblackdem
+![figure11](/images/Figure11.png)
 
 
 
@@ -112,15 +112,15 @@ This figure illustrates the Arrest Representation Factor for each racial group b
 
 
 
-Figure 12: plot18prison_arrestrace
+![figure12](/images/Figure12.png)
 
-
+![figure12_2](/images/Figure12_2.png)
 
 These racial disparities continue up through the justice system, with Black and Hispanic arrestees much more likely to receive prison sentences.
 
 
 
-Figure 13: plot19prison_arrest%white
+![figure13](/images/Figure13.png)
 
 
 
@@ -128,15 +128,14 @@ In the context of the other data in this series, it’s unsurprising that these 
 
 
 
-Figure 14: plot17prisonvsarrest
+![figure14](/images/Figure14.png)
 
 
 
 This graph has a diagonal dotted line signifying the Representation Factor equalling 1 - here we can see that Black people are imprisoned at a higher rate (and White people are incarcerated at a lower rate) than their percentage of arrests.
 
 
-
-Figure 15: felonyvsprison
+![figure15](/images/Figure15.png)
 
 
 
@@ -144,7 +143,7 @@ An interesting twist is that when we look at felony arrests (a subdivision of to
 
 
 
-Figure 16: plot21prison_arrestblackdem
+![figure16](/images/Figure16.png)
 
 
 
@@ -153,8 +152,7 @@ How does this play out in counties with varying Black populations? In counties w
 In counties where Black people make up more than 10% of the population, that rate drops to around 1.4.
 
 
-
-Figure 17: plot20prison_arrestwhitedem
+![figure17](/images/Figure17.png)
 
 
 
