@@ -3,7 +3,7 @@ I analyzed the New York State 2018 arrest data to see if racial disparities exis
 
 
 
-![figure1](/images/plot2arrestdemographic.png)
+![figure1](/images/plo2arrestdemographic.png)
 
 
 
@@ -71,7 +71,7 @@ This figure shows the number of arrests of people in each racial group scaled to
 
 
 
-![figure](/images/plot13unfairfactorallcounties.png)
+![figure8](/images/plot13unfairfactorallcounties.png)
 
 
 
@@ -84,7 +84,7 @@ In this figure we can see that is not the case.
 
 
 
-Figure 9: plot14unfairfactor%white
+![figure9](/images/plot14unfairfactor%white.png)
 
 
 
