@@ -158,7 +158,7 @@ If inner-city poverty and “ghetto culture” were to be blamed for criminal be
 
 
 
-The ugly conclusion is that in New York State it seems that the higher the White population, the more likely a Black community member will be arrested, and the more likely that person will be sentenced to prison for a non-serious or misdemeanor offense.
+The ugly conclusion is that in New York State it seems that the **higher the White population, the more likely a Black community member will be arrested, and the more likely that person will be sentenced to prison for a non-serious or misdemeanor offense.**
 
 
 
