@@ -82,7 +82,7 @@ When the counties are grouped by the percentage of black population (using 10% a
 
 These two figure shows that the less white people/the more black people in the community, the less black people get arrested/population.
 
-
+### More black people are sentenced to prison than any other race and it's worse when they are arrested in white marjority counties.
 
 To see if these racial disparities continue up through the justice system, I looked to see if there's a difference in the percentages of presion sentences among the arrestees of different races. 
 
