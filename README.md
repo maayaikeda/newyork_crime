@@ -30,18 +30,17 @@ When the looked the demographics, as expeceted, higher populated counties have h
 
 Comparing Figure 3 to Figure 4, we find that the highest rates of arrests of Black people occur mainly in counties where Black people make up less than 7.6% of the total population and continues to drop as Black people make up larger & larger percentages of the total population.
 
-## Does this mean that the higher percentage of minorities, the less black people get arrested?
+### Does this mean that the higher percentage of minorities, the less black people get arrested?
 This is interesting, as it is generally believed that neighborhood with more black population/less white people is more dangerous. 
 
 
-In fact, in counties where Black people make up less than 10% of the total population, their arrest rate is significantly higher than counties in which Black people make up more than 10% of the total population. 
+In fact, it is the opposite. The data shows that in counties where Black people make up less than 10% of the total population, their arrest rate is significantly higher than counties in which Black people make up more than 10% of the total population. 
 
 ![figure5](/images/Figure5.png)
 
 
 
-
-Once again, there doesn’t seem to be much difference in the percentage of arrests within other racial groups based upon the percentage of Black people in each county — but what about the percentage of White people?
+Once again, only black people seems to be affected. There doesn’t seem to be much difference in the percentage of arrests within other racial groups based upon the percentage of Black people in each county — but what about the percentage of White people?
 
 
 ![figure6](/images/Figure6.png)
