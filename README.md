@@ -53,7 +53,7 @@ When race arrest/race population is plot against the percent white population of
 
 
 
-To quantify the racial disparities of arrest, I calculated a "Representation Factor" which is the percentage of arrest devided by the percentation of the population for each race. For instance, if 35% of arrested people were white and the population of the country was 40%, the representation Factor will be 35/40 0.85. If the percentage of the arrest and the percentage or the population were equal, the represenation factor will equal to 1.  In a perfectly fair system, this number should be close to 1 for every group.
+To quantify the racial disparities of arrest, I calculated a "Representation Factor" which is the percentage of arrest devided by the percentation of the population for each race. For instance, if 35% of arrested people were white and the population of the country was 40%, the representation Factor will be 35/40 (or 0.85). If the percentage of the arrest and the percentage or the population were equal, the represenation factor will equal to 1.  In a perfectly fair system, this number should be close to 1 for every group.
 
 
 
@@ -62,36 +62,38 @@ In this figure we can see that is not the case. The representation factor is a l
 ![figure8](/images/Figure8.png)
 
 
-The higher the percentage of white people in the county, the higher the representation factor is for black people. In this figure, the dotted line marks a 1:1 Arrest Representation Factor, and the x-axis shows the percentage of White people in each county.
+In this figure, the dotted line marks a Arrest Representation Factor = 1 , and the x-axis shows the percentage of White people in each county. The higher the percentage of white people in the county, the higher the representation factor is for black people. Hispanic people seem somewhat over-represented, but not by much. Asian people seem somewhat under-represented, White people seem to move closer to 1 as the percentage of White people in each county approaches 100%, but as that benchmark is reached the Representation Factor for Black arrestees gets higher and higher.
 
 
 ![figure9](/images/Figure9.png)
 
-This is a summary plot for the figure above:
+This is a summary plot for the figure above, showing the mean representation factor for each race in counties with White majority (White >0.5) vs. White minority (White <0.5).
 
 ![figure10](/images/Figure10.png)
 
-This figure condenses the Representation Factors for each racial group based upon White majority (White >0.5) or White minority (White <0.5).
-Hispanic people seem somewhat over-represented, but not by much. Asian people seem somewhat under-represented, White people seem to move closer to 1 as the percentage of White people in each county approaches 100%, but as that benchmark is reached the Representation Factor for Black arrestees gets higher and higher.
-
+ 
+When the counties are grouped by the percentage of black population (using 10% as a cutoff), it is clear that representation factor for black people is lower/closer to one when there are more than 10% of black people in the counthy. 
 
 
 
 
 ![figure11](/images/Figure11.png)
 
+These two figure shows that the less white people/the more black people in the community, the less black people get arrested/population.
 
 
-This figure illustrates the Arrest Representation Factor for each racial group based upon whether the population of the counties have fewer than 10% Black population or greater than 10% Black population.
+
+To see if these racial disparities continue up through the justice system, I looked to see if there's a difference in the percentages of presion sentences among the arrestees of different races. 
 
 
+This plot shows that Black and Hispanic arrestees much more likely to receive prison sentences than other races.
 
 ![figure12](/images/Figure12.png)
 
 ![figure12_2](/images/Figure12_2.png)
 
-These racial disparities continue up through the justice system, with Black and Hispanic arrestees much more likely to receive prison sentences.
 
+When plotted against the percentage of white demographic, it is clear that black and hispanic arrestees are sentenced prison at a higher rate than other races in counties with higher percentaage of white residents.
 
 
 ![figure13](/images/Figure13.png)
@@ -141,7 +143,7 @@ The effect contrasts much more strongly when we look at counties with White majo
 
 
 
-What conclusions can we draw from this dataset?
+## What conclusions can we draw from this dataset?
 
 
 
