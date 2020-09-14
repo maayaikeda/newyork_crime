@@ -158,16 +158,16 @@ If inner-city poverty and “ghetto culture” were to be blamed for criminal be
 
 
 
-The ugly conclusion is that in New York State it seems that the **higher the White population, the more likely a Black community member will be arrested, and the more likely that person will be sentenced to prison for a non-serious or misdemeanor offense.**
+The ugly conclusion is that in New York State it seems that **the higher the White population, the more likely a Black community member will be arrested, and the more likely that person will be sentenced to prison for a non-serious or misdemeanor offense.**
 
 
 
+Notes: 
 
+** Some might say that larger cities are more efficient at sovling crimes, however, that does not seem to be true according to the 2017 FBI uniform crime report. 
+** In the context of the violent crimes, in almost cases, the offender and the victim are the same race (also from FBI uniform crime report). 
 
-
-
-
-
+[Linke to full analysis](https://github.com/maayaikeda/newyork_crime/blob/master/New_york_race_and_arrest.ipynb)
 
 
 
