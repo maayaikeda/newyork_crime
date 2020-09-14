@@ -2,16 +2,12 @@
 I analyzed the New York State 2018 arrest data to see if racial disparities exist. Analysis included adjusting for county population data and racial demographics of counties in which persons were arrested or sentenced to prison. I found that black people are arrested and sentenced to prison disproportionately high compared to every other demographic group. This is true especially for counties with high white population (>50%). Conversely, in counties where black people make up more than 10% of the total population black people are arrested less and yield fewer prison sentences per arrest. This suggest that disproportionately high arrest and prison sentences of black people is due to racial biases against black people in counties with high white/ low black population.
 
 
+One of the first stark observation I made from the data is that the disproportionate amount of arrests among the Black population as compared to every other demographic category. This figure shows the mean arrest by population by race of all counties in New York State.
+
 
 ![figure1](/images/Figure1.png)
 
 
-
-
-
-Mean arrests by population illustrates the proportion between arrests by race (race arrests) and the percentage of people of that race within the population (race population). This figure represents the mean (average) of all counties in New York State.
-
-Here we can see a disproportionate amount of arrests among the Black population as compared to every other demographic category.
 
 
 
