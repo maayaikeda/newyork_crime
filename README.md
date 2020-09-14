@@ -71,7 +71,8 @@ This figure shows the number of arrests of people in each racial group scaled to
 
 
 
-Figure 8: plot13unfairfactorallcounties
+![figure](/images/plot13unfairfactorallcounties.png)
+
 
 
 
