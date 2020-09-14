@@ -9,13 +9,12 @@ One of the first stark observation I made from the data is that the disproportio
 
 
 
-
+When we look at race arrest/race population against the size of the county, we see that black people are arrested at a higher rate than other race in counties with lower population compared to larger counties.
 
 ![figure2](/images/Figure2.png)
 
 
-
-This figure plots Race arrests/Race population by the total population of each county. In counties with low population, a larger percentage by far of Black people within that county are arrested. Other races seem to be mostly arrested at the same percentage rate regardless of total county population. 
+This figure examines the same data as the previous figure, but observes a logarithmic function of total population. This makes it easier to see the differences & similarities between counties of lower and mid-range population. It is worthwile to note that, while it is commonly believed that highly/densely populated areas are more dangerous (have higher crime rate) than lightly populated areas, in NY State, the overall crime rates in the mid-sized counties is half or less than half of the high-populated counties. 
 
 
 
@@ -23,27 +22,20 @@ This figure plots Race arrests/Race population by the total population of each c
 
 
 
-This figure examines the same data as the previous figure, but observes a logarithmic function of total population. This makes it easier to see the differences & similarities between counties of lower and mid-range population. 
-
-
-
-It’s worthwhile to note that the overall crime rates in the mid-sized counties is half or less than half of the high-population counties. As a representation factor, the percentage of each race arrested seems fairly constant for every racial group except Black people, and seems to sharply decrease when the total population of each county is high. 
-
+When the looked the demographics, as expeceted, higher populated counties have higher percentage of minorities. Using the same logarithmic population range, four stacked columns illustrate the mean racial demographic for counties in New York State. 
 
 ![figure4](/images/Figure4.png)
 
+Comparing Figure 3 to Figure 4, we find that the highest rates of arrests of Black people occur mainly in counties where Black people make up less than 7.6% of the total population and continues to drop as Black people make up larger & larger percentages of the total population.
+
+## Does this mean that the higher percentage of minorities, the less black people get arrested?
+This is interesting, as it is generally believed that neighborhood with more black population/less white people is more dangerous. 
 
 
-
-Using the same logarithmic population range, four stacked columns illustrate the mean racial demographic for counties in New York State. Comparing Figure 3 to Figure 4, we find that the highest rates of arrests of Black people occur mainly in counties where Black people make up less than 7.6% of the total population and continues to drop as Black people make up larger & larger percentages of the total population.
-
+In fact, in counties where Black people make up less than 10% of the total population, their arrest rate is significantly higher than counties in which Black people make up more than 10% of the total population. 
 
 ![figure5](/images/Figure5.png)
 
-
-
-
-This figure further illustrates percent of arrests per racial demographic. In counties where Black people make up less than 10% of the total population, their arrest rate is significantly higher than counties in which Black people make up more than 10% of the total population. 
 
 
 
@@ -54,49 +46,35 @@ Once again, there doesn’t seem to be much difference in the percentage of arre
 
 
 
-
-This figure shows the mean county arrests for each racial group as a percentage of the total arrests in the counties, split into two groups: Counties where White people make up less than 50% of the total population (in which White people are the minority), and counties where White people are greater than 50% of the population (in which White people are the majority).
+When race arrest/race population is plot against the percent white population of each county, it is clear that black people are arrested at different rates in counties ounties where White people make up less than 50% of the total population (in which White people are the minority), and counties where White people are greater than 50% of the population (in which White people are the majority).
 
 
 ![figure7](/images/Figure7.png)
 
 
 
+To quantify the racial disparities of arrest, I calculated a "Representation Factor" which is the percentage of arrest devided by the percentation of the population for each race. For instance, if 35% of arrested people were white and the population of the country was 40%, the representation Factor will be 35/40 0.85. If the percentage of the arrest and the percentage or the population were equal, the represenation factor will equal to 1.  In a perfectly fair system, this number should be close to 1 for every group.
 
-This figure shows the number of arrests of people in each racial group scaled to the percentage of the population of each racial group. The two clusters show the variation between counties where there is a White minority vs a White majority. Once again, there is not much of a difference between the arrest rates for any group except Black people.
 
 
+In this figure we can see that is not the case. The representation factor is a lot higher for black people than for other race in almost all counties.
 
 ![figure8](/images/Figure8.png)
 
 
-
-
-It’s easier to see this disparity if we use a “Representation Factor”: Arrests for each racial group divided by each racial group’s population. In a perfectly fair system, this number should be close to 1 for every group.
-
-
-
-In this figure we can see that is not the case.
-
+The higher the percentage of white people in the county, the higher the representation factor is for black people. In this figure, the dotted line marks a 1:1 Arrest Representation Factor, and the x-axis shows the percentage of White people in each county.
 
 
 ![figure9](/images/Figure9.png)
 
-
-
-In this figure, the dotted line marks a 1:1 Arrest Representation Factor, and the x-axis shows the percentage of White people in each county.
-
-
-
-Hispanic people seem somewhat over-represented, but not by much. Asian people seem somewhat under-represented, White people seem to move closer to 1 as the percentage of White people in each county approaches 100%, but as that benchmark is reached the Representation Factor for Black arrestees gets higher and higher.
-
-
+This is a summary plot for the figure above:
 
 ![figure10](/images/Figure10.png)
 
-
-
 This figure condenses the Representation Factors for each racial group based upon White majority (White >0.5) or White minority (White <0.5).
+Hispanic people seem somewhat over-represented, but not by much. Asian people seem somewhat under-represented, White people seem to move closer to 1 as the percentage of White people in each county approaches 100%, but as that benchmark is reached the Representation Factor for Black arrestees gets higher and higher.
+
+
 
 
 
@@ -153,6 +131,11 @@ In counties where Black people make up more than 10% of the population, that rat
 
 
 The effect contrasts much more strongly when we look at counties with White majorities vs counties with White minorities. In the counties where White people are less than 50% of the population, the prison Representation Factor for the Black population drops almost to 1. 
+
+
+
+
+
 
 
 
