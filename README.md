@@ -40,10 +40,7 @@ In fact, it is the opposite. The data shows that in counties where Black people 
 
 
 
-Once again, only black people seems to be affected. There doesn’t seem to be much difference in the percentage of arrests within other racial groups based upon the percentage of Black people in each county — but what about the percentage of White people?
-
-
-![figure6](/images/Figure6.png)
+Once again, only black people seems to be affected. There doesn’t seem to be much difference in the percentage of arrests within other racial groups based upon the percentage of Black people in each county — but **what about the percentage of White people?**
 
 
 
@@ -91,7 +88,7 @@ This plot shows that Black and Hispanic arrestees much more likely to receive pr
 
 ![figure12](/images/Figure12.png)
 
-![figure12_2](/images/Figure12_2.png)
+
 
 
 When plotted against the percentage of white demographic, it is clear that black and hispanic arrestees are sentenced prison at a higher rate than other races in counties with higher percentaage of white residents.
@@ -140,10 +137,6 @@ The effect contrasts much more strongly when we look at counties with White majo
 
 
 
-
-
-
-
 ## What conclusions can we draw from this dataset?
 
 
@@ -164,8 +157,8 @@ The ugly conclusion is that in New York State it seems that **the higher the Whi
 
 Notes: 
 
-** Some might say that larger cities are more efficient at sovling crimes, however, that does not seem to be true according to the 2017 FBI uniform crime report. 
-** In the context of the violent crimes, in almost cases, the offender and the victim are the same race (also from FBI uniform crime report). 
+** Some might say that larger cities are more efficient at sovling crimes, however, that does not seem to be true according to the 2017 FBI uniform crime report.  <br>
+** In the context of the violent crimes, in almost all cases, the offender and the victim are the same race (also from FBI uniform crime report). 
 
 [Linke to full analysis](https://github.com/maayaikeda/newyork_crime/blob/master/New_york_race_and_arrest.ipynb)
 
