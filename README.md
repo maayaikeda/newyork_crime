@@ -17,7 +17,7 @@ Figure 2:
 ![figure2](/images/Figure2.png)
 
 
-This figure examines the same data as the previous figure, but observes a logarithmic function of total population. This makes it easier to see the differences & similarities between counties of lower and mid-range population. It is worthwile to note that, while it is commonly believed that highly/densely populated areas are more dangerous (have higher crime rate) than lightly populated areas, in NY State, the overall crime rates in the mid-sized counties is half or less than half of the high-populated counties. 
+This figure examines the same data as the previous figure, but observes a logarithmic function of total population. This makes it easier to see the differences & similarities between counties of lower and mid-range population. It is worthwile to note that highly/densely populated areas generally are more dangerous (have higher crime rate) than lightly populated areas. In NY State, the overall crime rates in the mid-sized counties is half or less than half of the high-populated counties.
 
 
 Figure 3:
@@ -165,7 +165,7 @@ The ugly conclusion is that in New York State it seems that **the higher the Whi
 
 Notes: 
 
-** Some might say that larger cities are more efficient at sovling crimes, however, that does not seem to be true according to the 2017 FBI uniform crime report.  <br>
+** Some might say that larger cities are more efficient at sovling crimes, however, I found no significant difference in clearance rates between large cities and small towns, according to the 2017 FBI uniform crime report.  <br>
 ** In the context of the violent crimes, in almost all cases, the offender and the victim are the same race (also from FBI uniform crime report). 
 
 [Linke to full analysis](https://github.com/maayaikeda/newyork_crime/blob/master/New_york_race_and_arrest.ipynb)
